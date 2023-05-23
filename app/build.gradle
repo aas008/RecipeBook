@@ -8,8 +8,8 @@ android {
 
     defaultConfig {
         applicationId "com.example.recipebook"
-        minSdkPreview "UpsideDownCake"
-        targetSdkPreview "UpsideDownCake"
+        minSdkVersion 16
+        targetSdkVersion 33
         versionCode 1
         versionName "1.0"
 
